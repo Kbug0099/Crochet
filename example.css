@@ -1,0 +1,47 @@
+body {
+	background-color: rgb(219,239,253);
+	background-color: hsl (205, 89%, 93%);
+	opacity: 1.0;}
+p, p1, p2, h1, h2, h3, ul, header, table, footer  {
+	font-family: Helvetica, Arial, sans-serif;
+	color: black;}
+h1, h2, h3 {
+	text-align:center;}
+h1 {
+	padding: 15px}
+p {
+	font-size:20px;
+	text-align: left;
+	text-indent: 20px;}
+ul {
+	list-style-image: url("photos/yarn2.png");
+	line-height: 1.6em;
+	font-size: 20px;}
+table {
+	height: 100px;
+	width: 900px;
+	text-align: left;
+	padding: 10px;
+	margin: 10px;}
+table {
+	border-style: solid;
+	border-width: 5px;}
+
+form {
+	margin: 10px;
+	padding-bottom: 10px;
+	width 250px;}
+
+
+
+p:first-letter {
+	font-weight: bold;
+	font-style: italic;}
+a:link {
+	color: black;
+	text-decoration: underline;}
+a:visited {
+	color:darkcyan;}
+a:hover {
+	color: deeppink;
+	text-decoration: none;}
